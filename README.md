@@ -25,4 +25,4 @@
 * MySql
 * MongoDB
 * Node.js
-* Express
+* Express.js
