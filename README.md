@@ -3,7 +3,7 @@
 
 ## Technical skills:
 
-** Languages: **
+**Languages:**
 
 * JavaScript
 * C#
@@ -11,7 +11,7 @@
 * Java
 
 
-** Front-end: **
+**Front-end:**
 
 * HTML
 * CSS
@@ -19,7 +19,7 @@
 * Basic UI design
 
 
-** Back-end: **
+**Back-end:**
 
 * MsSql
 * MySql
